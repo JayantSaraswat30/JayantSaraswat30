@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jayant Saraswat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantsaraswat30&label=Profile%20views&color=0e75b6&style=flat" alt="jayantsaraswat30" /> </p>
 
-- 🌱 I’m currently learning **Angular, AWS & Next.js**
+- 🌱 I’m currently learning **SQL, AWS & ML **
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on **Data Analysis**
 
-- 🤝 I’m looking for help with **Angular**
+- 🤝 I’m looking for help with **AWS**
 
 - 👨‍💻 All of my projects are available at [https://jayantsaraswat30.github.io/JayantSaraswatPortfolio/](https://jayantsaraswat30.github.io/JayantSaraswatPortfolio/)
 
-- 💬 Ask me about **React, JavaScript, Node.js & MERN Stack**
+- 💬 Ask me about **Python(NumPy,Pandas), SQL, Matplotlib,Seaborn,PowerBI**
 
 - 📫 How to reach me **jayantsaraswat09@gmail.com**
 
